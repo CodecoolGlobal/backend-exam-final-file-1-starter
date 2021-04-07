@@ -1,11 +1,11 @@
-Kovács Lilla,20,80,100
-Nagy Zoltán,55,45,70
-Kis Péter,56,46,75
-Végh János,10,25,25
-Kertész József,54,100,100
-Csillag István,80,80,80
-Kocsis Anna,5,80,80
-Farkas László,2,5,6
-Kis Ferenc,7,8,51
-dr. Nagy Ivett,34,52,83
-Kovács Károly Péter,100,100,100
+Ada Lovelace,20,80,100
+Albert Einstein,55,45,70
+Nikola Tesla,56,46,75
+Alan Turing,10,25,25
+Linus Torvalds,54,100,100
+Robert C. Martin,80,80,80
+Marie Curie,5,80,80
+Gottfried Wilhelm Leibniz,2,5,6
+Isaac Newton,7,8,51
+Barbara Liskov,34,52,83
+James Clerk Maxwell,100,100,100
