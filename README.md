@@ -4,7 +4,7 @@ Ebben a feladatban egy fájlból kell kiolvasni egy tanfolyam tanulóinak eredm�
 Minden diák háromszor vizsgázik, mindhárom vizsga eredménye mindig szerepel a beolvasandó file-ban. A file egy sora egy diákot és annak vizsgaeredményeit reprezentálja. Sorokon belül az adatok `,`-vel vannak elválasztva. Az első adat a diák neve, az ez után következő adatok a vizsga eredményei százalékos formában.
 
 Egy példa a file felépítésére:
-Ada Lovelace,20,80,100
+Ada Lovelace,20,80,100  
 Albert Einstein,55,45,70
 Nikola Tesla,56,46,75
 Alan Turing,10,25,25
